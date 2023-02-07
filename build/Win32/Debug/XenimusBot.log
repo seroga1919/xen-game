@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Bot.cpp
+  XenimusBot.vcxproj -> C:\Users\ant\source\repos\xenbot\XenBot\..\..\..\..\Desktop\Xenimus Clients\Xen _m\dinput8.dll
